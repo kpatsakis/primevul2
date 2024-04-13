@@ -1,0 +1,1 @@
+  InstanceFeatureDimKey() : instance(-1), feature_dim(-1) {}
